@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib == 3.8.1
+plotly
+cufflinks
+scikit-learn
+#PyQt6
+#PySide6
+#PyQt5
+#PySide2
